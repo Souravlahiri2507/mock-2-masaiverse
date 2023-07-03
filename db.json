@@ -6,7 +6,8 @@
         "age": 25,
         "place": "Visakhapatnam",
         "batch_name": "WEB-21",
-        "profession": "FSD"
+        "profession": "FSD",
+        "image":"https://masai-website-images.s3.ap-south-1.amazonaws.com/Vijay_Shekhar_Sharma_Paytm_96f52579b8.jpg"
       },
       {
         "id": 2,
@@ -14,7 +15,8 @@
         "age": 37,
         "place": "Vijayawada",
         "batch_name": "WEB-18",
-        "profession": "FSD"
+        "profession": "FSD",
+        "image":"https://masai-website-images.s3.ap-south-1.amazonaws.com/Vijay_Shekhar_Sharma_Paytm_96f52579b8.jpg"
       }
     ]
   }
